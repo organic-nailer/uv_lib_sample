@@ -1,4 +1,4 @@
-from calc import add, sub, mul, div
+from .calc import add, sub, mul, div
 
 def hello() -> str:
     return "Hello from uv-lib-sample!"
